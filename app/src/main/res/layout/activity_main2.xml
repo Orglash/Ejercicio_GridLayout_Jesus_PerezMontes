@@ -52,7 +52,8 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingLeft="40dp"
+        android:layout_centerInParent="true"
+        android:paddingLeft="25dp"
         android:layout_below="@+id/toolbar">
 
         <GridLayout
@@ -67,8 +68,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_column="0"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon1"
@@ -89,7 +89,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon2"
@@ -110,7 +110,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="0"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon3"
@@ -131,7 +131,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon4"
@@ -152,7 +152,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="0"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon5"
@@ -173,7 +173,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon6"
@@ -193,7 +193,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="0"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon7"
@@ -214,7 +214,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon8"
@@ -235,7 +235,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="0"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon9"
@@ -256,7 +256,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon10"
@@ -277,7 +277,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="0"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon11"
@@ -298,7 +298,7 @@
                 android:layout_height="wrap_content"
                 android:layout_column="1"
                 android:layout_gravity="center_horizontal"
-                android:layout_marginBottom="20dp">
+                android:layout_margin="20dp">
 
                 <ImageView
                     android:id="@+id/imageicon12"
